@@ -9,7 +9,7 @@ To solve this, we built **"Asha," the AI Leadership Architect**. Asha simulates 
 ## Live Demo
 🚀 **[Click here to try the Live App](https://task1-ironlady.streamlit.app
 
-)**
+/)**
 
 ## Key Features
 *   **AI-Personalized Roadmaps**: Uses Groq LPU™ to generate unique, goal-oriented plans in under 2 seconds.
@@ -48,6 +48,7 @@ To solve this, we built **"Asha," the AI Leadership Architect**. Asha simulates 
     ```bash
     streamlit run app.py
     ```
+
 
 
 
