@@ -325,7 +325,7 @@ if st.session_state.stage == 0:
     # Welcome Banner
     st.markdown("""
     <div class="welcome-banner">
-        <h2>🎯 Transform Your Leadership Journey in 3 Minutes</h2>
+        <h2 style="color:white">🎯 Transform Your Leadership Journey in 3 Minutes</h2>
         <p style="font-size:1.1rem; margin-top:1rem;">
             Asha, your AI Leadership Architect, will analyze your profile and design a personalized roadmap to success.
         </p>
@@ -712,4 +712,5 @@ st.markdown("""
     🌐 www.iamironlady.com | 📧 hello@iamironlady.com | 📞 +91 98765 43210<br>
     <small>Powered by AI • Built with ❤️ for Women Who Lead</small>
 </div>
+
 """, unsafe_allow_html=True)
